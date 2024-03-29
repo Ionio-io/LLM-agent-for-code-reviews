@@ -6,7 +6,7 @@ An autonomous agent created using [crewAI](https://www.crewai.io/) and [Langchai
 
 ## 👀 Sneak peek
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3d31233572f04c2fac1478df9475ca28?sid=0fd4251f-49fa-4bce-b3d8-57db44180a0a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[Video Walkthrough](https://www.loom.com/embed/3d31233572f04c2fac1478df9475ca28?sid=66b9e3ae-e14e-4701-82e4-6562b0fb06f9)
 
 ## 🤔 How it works?
 
