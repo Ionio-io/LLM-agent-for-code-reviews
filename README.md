@@ -6,7 +6,14 @@ An autonomous agent created using [crewAI](https://www.crewai.io/) and [Langchai
 
 ## 👀 Sneak peek
 
-[Video Walkthrough](https://www.loom.com/embed/3d31233572f04c2fac1478df9475ca28?sid=66b9e3ae-e14e-4701-82e4-6562b0fb06f9)
+<div>
+    <a href="https://www.loom.com/share/3d31233572f04c2fac1478df9475ca28">
+      <p>Walkthrough of LLM Agent crew made for Code Review - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3d31233572f04c2fac1478df9475ca28">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3d31233572f04c2fac1478df9475ca28-with-play.gif">
+    </a>
+  </div>
 
 ## 🤔 How it works?
 
